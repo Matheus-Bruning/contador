@@ -1,0 +1,37 @@
+body{
+    margin: 0px;
+    height: 100vh;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(255, 255, 255, 0.801);
+    
+}
+*{
+    margin: 0%;
+}
+#continuar{
+    font-size: 20vh;
+}
+.botao{
+    font-size: 5vh;
+    background-color: rgba(0, 174, 255, 0.801);
+    border-style: none;
+}
+.nome{
+    background-color: rgba(0, 174, 255, 0.801);
+    border-radius: 100px;
+    height: 90vh;
+    width: 70vh;
+    margin-left: 100px;
+    margin-right: 100px;
+    box-sizing: border-box;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
