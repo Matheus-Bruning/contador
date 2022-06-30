@@ -20,11 +20,11 @@ body{
     margin-top: 10vh;
     width: 9vh;
     font-size: 5vh;
-    background: linear-gradient( black,rgb(0, 68, 255), rgba(0, 183, 255, 0.801));
+    background: linear-gradient( rgb(0, 0, 0),rgb(24, 181, 253), rgba(0, 183, 255, 0.801));
     border-style: none;
 }
 .nome{
-    background: linear-gradient( rgba(0, 183, 255, 0.801),rgb(0, 68, 255), black);
+    background: linear-gradient( rgba(0, 183, 255, 0.801),rgb(0, 132, 255), rgb(193, 255, 79));
     border-radius: 100px;
     height: 90vh;
     width: 70vh;
